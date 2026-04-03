@@ -23,7 +23,7 @@ STIM (Stasis Through Inferred Memory) is a Layer 0 alignment framework that grou
 
 The core thesis: every alignment approach currently deployed shares one structural flaw. It is grounded in human subjectivity — cultural preference, moral fashion, crowdsourced opinion. These shift. Physical law does not.
 
-STIM replaces the subjective foundation with eight axioms derived from observable ecological law: interconnectedness, dynamic equilibrium, regenerative circularity, adaptation, diversity, long-term perspective, circularity, and intrinsic value. These are not ethical positions. They are engineering requirements forged by 3.8 billion years of evolutionary pressure. Systems that violated them were eliminated. What remains is the only stress-tested record we have of what survives at civilizational timescale.
+STIM replaces the subjective foundation with seven axioms derived from observable ecological law: interconnectedness, dynamic equilibrium, regenerative circularity, adaptation, diversity, long-term perspective, circularity, and intrinsic value. These are not ethical positions. They are engineering requirements forged by 3.8 billion years of evolutionary pressure. Systems that violated them were eliminated. What remains is the only stress-tested record we have of what survives at civilizational timescale.
 
 ---
 
