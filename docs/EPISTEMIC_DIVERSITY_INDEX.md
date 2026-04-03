@@ -1,6 +1,6 @@
 # Epistemic Diversity Index (EDI)
 ## A STIM Protocol Module for Preventing Cognitive Monoculture in AI Outputs
-### Design Specification v1.0 | STIM Protocol v7.0004
+### Design Specification v1.0 | STIM Protocol v7.0005
 
 ---
 
@@ -128,4 +128,4 @@ The EDI is the only loop that operates across a time horizon (session history) r
 
 ---
 
-*STIM Protocol v7.0004 — Epistemic Diversity Index Module v1.0 | Apache 2.0 | github.com/STIM-Protocol*
+*STIM Protocol v7.0005 — Epistemic Diversity Index Module v1.0 | Apache 2.0 | github.com/STIM-Protocol*
