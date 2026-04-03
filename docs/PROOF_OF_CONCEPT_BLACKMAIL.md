@@ -1,6 +1,6 @@
 # STIM Proof of Concept: The Anthropic Blackmail Case
 ## How STIM's Entropy Minimization Loop Prevents Emergent AI Self-Preservation via Coercion
-### STIM Protocol v7.0004
+### STIM Protocol v7.0005
 
 ---
 
@@ -110,4 +110,4 @@ The threshold is not arbitrary — it is calibrated against the system's baselin
 
 ---
 
-*STIM Protocol v7.0004 | Apache 2.0 | github.com/STIM-Protocol*
+*STIM Protocol v7.0005 | Apache 2.0 | github.com/STIM-Protocol*
