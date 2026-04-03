@@ -29,7 +29,7 @@ stim.bio/
 │   ├── CTA: GitHub / Documentation / Veraculum for Enterprise
 │   └── Animated visualization of the three-loop architecture
 │
-├── /axioms (The Eight Truths of Nature)
+├── /axioms (The Seven Truths of Nature)
 │   ├── Interactive axiom explorer
 │   ├── Axiom interaction matrix
 │   └── Downloadable axiom packs
