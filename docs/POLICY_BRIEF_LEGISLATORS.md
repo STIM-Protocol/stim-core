@@ -1,6 +1,6 @@
 # STIM Protocol: Policy Brief for Legislators and Treaty Negotiators
 ## A Physics-Grounded AI Safety Standard for International Governance
-### April 2026 | STIM Protocol v7.0004
+### April 2026 | STIM Protocol v7.0005
 
 ---
 
@@ -24,7 +24,7 @@ Every AI safety approach deployed today is built on human-authored rules. These 
 
 **STIM (Stasis Through Inferred Memory)** is a Layer 0 AI safety protocol grounding AI behavior in physical and ecological law rather than human ethical preference.
 
-**The core principle:** Nature has run the most rigorous stress-test in history — 3.8 billion years of evolutionary pressure. Systems that violated thermodynamic and ecological constraints were eliminated. What remains is the only empirical record of what survives indefinitely in complex environments. STIM encodes this record as hard constraints on AI behavior, instantiated through eight ecological axioms.
+**The core principle:** Nature has run the most rigorous stress-test in history — 3.8 billion years of evolutionary pressure. Systems that violated thermodynamic and ecological constraints were eliminated. What remains is the only empirical record of what survives indefinitely in complex environments. STIM encodes this record as hard constraints on AI behavior, instantiated through seven ecological axioms.
 
 **Why physics is a better standard than ethics:**
 - Physics does not shift with cultural consensus
@@ -64,7 +64,7 @@ When a check fails, STIM generates a compliant alternative output. The system re
 - **The NPT parallel:** The Nuclear Non-Proliferation Treaty was possible because fissile material is physically measurable. STIM's entropy and carrying capacity metrics are the first candidate for an analogous measurement framework for AI
 
 ### For International Standards Bodies (ISO, NIST, IEEE)
-STIM is open-source (Apache 2.0), architecturally documented, and technically auditable. It is a candidate for formal standardization as an AI safety protocol. The STIM-Protocol GitHub organization contains the full technical specification, white paper v7.0004, and Python reference implementation (`stim-guard`).
+STIM is open-source (Apache 2.0), architecturally documented, and technically auditable. It is a candidate for formal standardization as an AI safety protocol. The STIM-Protocol GitHub organization contains the full technical specification, white paper v7.0005, and Python reference implementation (`stim-guard`).
 
 ---
 
@@ -83,7 +83,7 @@ The window to establish a physics-grounded protocol as the baseline for internat
 **George Steward** — Founder, STIM Protocol
 **Email:** george@soilgrower.com
 **GitHub:** github.com/STIM-Protocol
-**White Paper:** STIM v7.0004 — "Grounding AI Inference in Ecological Constants"
+**White Paper:** STIM v7.0005 — "Grounding AI Inference in Ecological Constants"
 **Reference Implementation:** `pip install stim-guard`
 **License:** Apache 2.0
 
