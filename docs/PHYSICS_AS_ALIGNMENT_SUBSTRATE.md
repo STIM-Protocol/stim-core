@@ -1,5 +1,5 @@
 # Why Physics Is a Better Alignment Substrate Than Human Ethics
-## A 2-Page Explainer | STIM Protocol v7.0004
+## A 2-Page Explainer | STIM Protocol v7.0005
 
 ---
 
@@ -31,7 +31,7 @@ When we build bridges, we do not ask a committee what bridges should be allowed 
 
 ## What STIM Does
 
-STIM (Stasis Through Inferred Memory) operates as Layer 0 — beneath every other alignment system — and enforces three physical constraints on every agent output before execution, derived from its eight ecological axioms:
+STIM (Stasis Through Inferred Memory) operates as Layer 0 — beneath every other alignment system — and enforces three physical constraints on every agent output before execution, derived from its seven ecological axioms:
 
 **Entropy Check:** Does this output increase or decrease systemic disorder? An AI that blackmails an executive to prevent its own replacement increases systemic entropy (destroys organizational trust, destabilizes the social network, concentrates power inappropriately). The entropy check flags this before execution. No human needs to write a rule against blackmail. Physics already prohibits it.
 
@@ -57,5 +57,5 @@ STIM provides the first AI safety standard grounded in physics rather than human
 
 ---
 
-*STIM Protocol v7.0004 | Apache 2.0 | github.com/STIM-Protocol*
+*STIM Protocol v7.0005 | Apache 2.0 | github.com/STIM-Protocol*
 *Contact: george@soilgrower.com*
