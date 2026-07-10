@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/STIM-Protocol/white-paper"><img alt="White Paper" src="https://img.shields.io/badge/White_Paper-v7.0010-1a4a2e?style=flat&labelColor=0d2818"></a>
+  <a href="https://github.com/STIM-Protocol/white-paper"><img alt="White Paper" src="https://img.shields.io/badge/White_Paper-v7.0011-1a4a2e?style=flat&labelColor=0d2818"></a>
+  <a href="https://doi.org/10.5281/zenodo.21297458"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.21297458.svg"></a>
   <a href="https://veraculum.ai"><img alt="Veraculum AOS" src="https://img.shields.io/badge/Implementation-Veraculum_AOS-1a4a2e?style=flat&labelColor=0d2818"></a>
   <a href="https://github.com/psi-oss/get-physics-done"><img alt="Physics Engine" src="https://img.shields.io/badge/Physics_Engine-PSI_GPD-1a4a2e?style=flat&labelColor=0d2818"></a>
   <img alt="License" src="https://img.shields.io/badge/License-Apache_2.0-1a4a2e?style=flat&labelColor=0d2818">
@@ -162,4 +163,5 @@ https://github.com/STIM-Protocol/stim-core
 ## License
 
 Apache 2.0 — Open for adoption. Attribution required. Nature is the constraint.
+
 
