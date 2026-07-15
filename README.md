@@ -96,7 +96,7 @@ The biosphere is the ultimate root auditor. The Ocean's warning applies: *"I can
 STIM-Protocol/
 ├── stim-core/          ← This repo. The open specification.
 ├── gpd-framework/      ← How STIM integrates PSI's GPD physics engine.
-└── white-paper/        ← Versioned arXiv-ready documentation (v7.0010).
+└── white-paper/        ← Versioned documentation. Canonical: v7.0011 | DOI: 10.5281/zenodo.21297458
 ```
 
 ---
