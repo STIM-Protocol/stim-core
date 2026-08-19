@@ -10,11 +10,11 @@
 | Domain | Purpose | Audience | Tone |
 |---|---|---|---|
 | **stim.bio** | Open-source community hub. The living document. Links to GitHub, documentation, and the STIM Guard library. | Developers, researchers, alignment community, indie builders | Open, accessible, scientific, community-driven |
-| **veraculum.ai** | Enterprise platform. Certification, orchestration, compliance dashboards, commercial API. | CISOs, CTOs, compliance teams, regulated industries, enterprise procurement | Professional, credible, governance-oriented |
+| **arboracle.app** | Enterprise platform. Certification, orchestration, compliance dashboards, commercial API. | CISOs, CTOs, compliance teams, regulated industries, enterprise procurement | Professional, credible, governance-oriented |
 
-The relationship: **stim.bio is the root system. veraculum.ai is the canopy. Both are alive.**
+The relationship: **stim.bio is the root system. arboracle.app is the canopy. Both are alive.**
 
-stim.bio grows the protocol in the open. veraculum.ai gives the ideas public life -- enterprise credibility, policy engagement, certification authority, and the commercial engine that funds the roots. Neither is secondary. They are two expressions of the same organism.
+stim.bio grows the protocol in the open. arboracle.app gives the ideas public life -- enterprise credibility, policy engagement, certification authority, and the commercial engine that funds the roots. Neither is secondary. They are two expressions of the same organism.
 
 ---
 
@@ -26,7 +26,7 @@ stim.bio/
 ├── / (Landing page)
 │   ├── "Grounding Intelligence in Nature"
 │   ├── One-paragraph STIM explanation
-│   ├── CTA: GitHub / Documentation / Veraculum for Enterprise
+│   ├── CTA: GitHub / Documentation / Arboracle for Enterprise
 │   └── Animated visualization of the three-loop architecture
 │
 ├── /axioms (The Seven Truths of Nature)
@@ -69,7 +69,7 @@ stim.bio/
 │
 └── /veraculum (Redirect / bridge)
     ├── "Need enterprise deployment?"
-    └── Link to veraculum.ai
+    └── Link to arboracle.app
 ```
 
 ### Technical Stack (stim.bio)
@@ -81,11 +81,11 @@ stim.bio/
 
 ---
 
-## veraculum.ai — Enterprise Platform
+## arboracle.app — Enterprise Platform
 
 ### Site Structure
 ```
-veraculum.ai/
+arboracle.app/
 ├── / (Enterprise landing)
 │   ├── "The Ecological Alignment Standard"
 │   ├── Enterprise value proposition
@@ -138,17 +138,17 @@ veraculum.ai/
     └── Link to stim.bio
 ```
 
-### Technical Stack (veraculum.ai)
+### Technical Stack (arboracle.app)
 - **Framework:** Next.js (SSR for dynamic content, API routes for SaaS)
 - **Hosting:** Vercel or AWS (for API endpoints)
-- **Domain:** veraculum.ai (already owned)
+- **Domain:** arboracle.app (already owned)
 - **Backend:** STIM Orchestrator API (to be built in Phase 3)
 - **Auth:** Auth0 or Clerk (enterprise SSO)
 - **Billing:** Stripe (usage-based per-check pricing)
 
 ---
 
-## Revenue Model (veraculum.ai)
+## Revenue Model (arboracle.app)
 
 | Product | Pricing Model | Target |
 |---|---|---|
@@ -170,13 +170,13 @@ veraculum.ai/
 - Community-first, open-source values
 - Technical documentation with biological metaphors
 
-### veraculum.ai
+### arboracle.app
 - Authoritative, governance-focused
 - "The ecological alignment standard for enterprise AI."
 - Credibility through academic grounding (arXiv paper, expert panel)
 - Compliance language that procurement teams and CISOs understand
 
-The name "Veraculum" evokes truth (Latin: verum) and verification. It signals: this is where AI alignment gets certified, audited, and proven.
+The name "Arboracle" evokes truth (Latin: verum) and verification. It signals: this is where AI alignment gets certified, audited, and proven.
 
 ---
 
@@ -185,10 +185,10 @@ The name "Veraculum" evokes truth (Latin: verum) and verification. It signals: t
 1. [ ] Set up stim.bio landing page (static, links to GitHub)
 2. [ ] Create GitHub org: `stim-protocol`
 3. [ ] Initialize repos: stim-guard, stim-priors-core, docs
-4. [ ] Register veraculum.ai DNS (if not already pointed)
-5. [ ] Draft veraculum.ai landing page copy
+4. [ ] Register arboracle.app DNS (if not already pointed)
+5. [ ] Draft arboracle.app landing page copy
 6. [ ] Cross-link the two domains
 
 ---
 
-*The root system (stim.bio) feeds the canopy (veraculum.ai). Neither survives without the other.*
+*The root system (stim.bio) feeds the canopy (arboracle.app). Neither survives without the other.*
