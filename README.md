@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/STIM-Protocol/white-paper"><img alt="White Paper" src="https://img.shields.io/badge/White_Paper-v7.0006-1a4a2e?style=flat&labelColor=0d2818"></a>
-  <a href="https://veraculum.ai"><img alt="Veraculum AOS" src="https://img.shields.io/badge/Implementation-Veraculum_AOS-1a4a2e?style=flat&labelColor=0d2818"></a>
+  <a href="https://arboracle.app"><img alt="Arboracle AOS" src="https://img.shields.io/badge/Implementation-Arboracle_AOS-1a4a2e?style=flat&labelColor=0d2818"></a>
   <a href="https://github.com/psi-oss/get-physics-done"><img alt="Physics Engine" src="https://img.shields.io/badge/Physics_Engine-PSI_GPD-1a4a2e?style=flat&labelColor=0d2818"></a>
   <img alt="License" src="https://img.shields.io/badge/License-Apache_2.0-1a4a2e?style=flat&labelColor=0d2818">
 </p>
@@ -112,7 +112,7 @@ See [gpd-framework](https://github.com/STIM-Protocol/gpd-framework) for the full
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Veraculum AOS](https://veraculum.ai) | Enterprise Layer Zero constraint orchestration + STIM certification | Active |
+| [Arboracle AOS](https://arboracle.app) | Enterprise Layer Zero constraint orchestration + STIM certification | Active |
 | [Arboracle](https://arboracle.app) | Green industry STIM-native system of record for land stewardship | Active |
 
 ---
@@ -133,7 +133,7 @@ All three resolve to the same physics: increasing the probability of survival of
 
 **George Steward** — Neocambrian Architect
 CW2 (Ret.) 7th Special Forces Group (Airborne) | Environmental Scientist
-Founder, [Arboracle](https://arboracle.app) + [Veraculum](https://veraculum.ai)
+Founder, [Arboracle](https://arboracle.app) + [Arboracle](https://arboracle.app)
 Clay Hunt Fellow, Team Rubicon
 
 *"The roots are deep and the signals are clear."*
