@@ -115,6 +115,7 @@ See [gpd-framework](https://github.com/STIM-Protocol/gpd-framework) for the full
 |---------|-------------|--------|
 | [Veraculum AOS](https://veraculum.ai) | Enterprise Layer Zero constraint orchestration + STIM certification | Active |
 | [Arboracle](https://arboracle.app) | Green industry STIM-native system of record for land stewardship | Active |
+| [mycelial-brain-mcp](https://github.com/STIM-Protocol/mycelial-brain-mcp) | MCP memory layer: persistent context for AI agents | Active |
 
 ---
 
